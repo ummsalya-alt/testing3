@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ссылка на GitHub репозиторий
-REPO_URL="git@github.com:ummsalya-alt/test-7.git"
+REPO_URL="git@github.com:ummsalya-alt/test-1.git"
 
 git remote remove origin
 git init
